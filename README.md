@@ -5,6 +5,8 @@ Welcome to the world of Doknor! Seymour is almost ready to set off on his advent
 
 FINALLY! - A functioning build! Check the "Releases" tab for a download link!
 Just extract the ZIP file and run the Seymour's Adventure executable, and you're ready!
+Or go and check out my website for a bit of infor on the story as well as a link to download the game!
+[Click here to go to yeetgod.com!](https://www.yeetgod.com/)
 
 Controls;
 
